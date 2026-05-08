@@ -10,7 +10,6 @@ Flutter, Rust, Web3js, Solidity, Solana, Java (Springboot)
 😄 Pronouns: He/Him
 </p>
 
-
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frank-olien-3b2276305/)
