@@ -1,7 +1,5 @@
 <div align="center">
 
-<div align="center">
-
 # 💫 Hi There
 ### I am a Mobile Engineer && a Blockchain Developer :)
 
@@ -14,7 +12,6 @@ Flutter, Rust, Web3js, Solidity, Solana, Java (Springboot)
 😄 Pronouns: He/Him
 </p>
 
-</div>
 
 ## 🌐 Socials
 
