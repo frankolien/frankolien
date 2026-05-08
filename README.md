@@ -3,12 +3,10 @@
 # 💫 Hi There
 ### I am a Mobile Engineer && a Blockchain Developer :)
 Flutter, Rust, Web3js, Solidity, Solana, Java (Springboot)
-<p>
 🔭 I'm currently working on a full DApp with DEX, DAO, mobile features, and an NFT marketplace<br>
 👯 I'm looking to collaborate on any Solana-like blockchain project<br>
 📫 Reach me at <b><a href="mailto:frankolien123@gmail.com">frankolien123@gmail.com</a></b><br>
 😄 Pronouns: He/Him
-</p>
 
 ## 🌐 Socials
 
