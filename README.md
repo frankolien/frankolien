@@ -1,6 +1,4 @@
-                                                  ## Hi there 👋
-
-<!--
+                                                  # 💫Hi There
 I am a Mobile Engineer && a Blockchain Developer :)<br><br>Flutter, Rust, Web3js, Solidity, Solana, java(Springboot)<br><br>🔭 I’m currently working on ... Full DApp with Dex, Dao, Mobile features and an NFT marketplace<br>👯 I’m looking to collaborate on any Solana-like Blockchain project<br>📫 How to reach me: frankolien123@gmail.com  <br><br>😄 Pronouns: He/Him
 
 
@@ -18,4 +16,3 @@ I am a Mobile Engineer && a Blockchain Developer :)<br><br>Flutter, Rust, Web3js
 [![](https://komarev.com/ghpvc/?username=frankolien&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
