@@ -36,8 +36,6 @@ Flutter, Rust, Web3js, Solidity, Solana, Java (Springboot)
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=frankolien&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
