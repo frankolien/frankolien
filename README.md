@@ -29,12 +29,4 @@ Flutter, Rust, Web3js, Solidity, Solana, Java (Springboot)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=frankolien&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 </div>
