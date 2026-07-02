@@ -1,5 +1,5 @@
 <div align="start"> 
 ## Hi There :)
   
-I am a Mobile Engineer && a Blockchain Developer :)
+I'm a Fullstack Mobile Engineer && a Blockchain Developer :)
 </div>
